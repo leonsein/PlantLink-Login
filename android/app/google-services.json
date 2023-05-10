@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1013519019759",
+    "firebase_url": "https://dbsensors-default-rtdb.firebaseio.com",
+    "project_id": "dbsensors",
+    "storage_bucket": "dbsensors.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013519019759:android:2670d8b44d6362294e751a",
+        "android_client_info": {
+          "package_name": "com.example.dbsensors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013519019759-nvt0nau543uo2ra8qi07hvsv7nr1hdjl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dbsensors",
+            "certificate_hash": "28bb8b98a0d2257061506d7caf7ca5eee697d47d"
+          }
+        },
+        {
+          "client_id": "1013519019759-hbdklq9nvraitgimds32btjepiv99aa2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOETfbqbBkNXjOSNPx2HFmZ8Yr96Q_Dn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013519019759-1ccdqbmm8d7ach31vm4o46qp82a8mich.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

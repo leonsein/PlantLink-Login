@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PlantLink</string>
+    <string name="facebook_app_id">551105170492058</string>
+    <string name="fb_login_protocol_scheme">fb551105170492058</string>
+    <string name="facebook_client_token">ddb880f9f1bb28be4114e23b53503469</string>
+</resources>
+
+
+
